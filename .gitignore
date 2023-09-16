@@ -1,0 +1,7 @@
+*~
+.#*
+_build
+tmp
+.vscode
+.env*
+.log*

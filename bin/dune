@@ -1,0 +1,7 @@
+(executable
+ (name application)
+ (public_name application.exe)
+ (libraries
+   dream
+   lwt
+   application))

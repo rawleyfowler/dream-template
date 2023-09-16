@@ -1,0 +1,14 @@
+(library
+ (name application)
+ (public_name application)
+ (libraries
+   dream
+   caqti
+   caqti-lwt
+   caqti-drive-postgresql
+   ppx_rapper_lwt
+   uuidm)
+ (preprocess
+  (pps lwt_ppx ppx_rapper)))
+
+(env (dev (flags (:standard -w -69))))
