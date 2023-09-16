@@ -11,7 +11,7 @@
    dream
    caqti
    caqti-lwt
-   caqti-drive-postgresql
+   caqti-driver-postgresql
    yojson
    ppx_deriving_yojson
    ppx_rapper_lwt

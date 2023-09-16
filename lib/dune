@@ -5,7 +5,7 @@
    dream
    caqti
    caqti-lwt
-   caqti-drive-postgresql
+   caqti-driver-postgresql
    ppx_rapper_lwt
    uuidm)
  (preprocess
